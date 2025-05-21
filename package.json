@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "order-management-client",
   "private": true,
   "version": "0.0.0",
@@ -19,4 +20,18 @@
     "@vitejs/plugin-vue": "^5.2.3",
     "vite": "^6.3.5"
   }
+=======
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.2",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "vite": "^4.0.0"
+    }
+>>>>>>> 0cdb8a82586cf3f20fb97797c8cee77d852f8946
 }
